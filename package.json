@@ -1,0 +1,23 @@
+{
+  "name": "quickSort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fToledo29/quickSort.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fToledo29/quickSort/issues"
+  },
+  "homepage": "https://github.com/fToledo29/quickSort#readme",
+  "dependencies": {
+    "perf_hooks": "0.0.1"
+  }
+}
