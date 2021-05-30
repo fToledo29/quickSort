@@ -1,3 +1,9 @@
+/**
+ * Quick Sort Time complexity:
+ * Average : O(n log n)
+ * Worst : O(n ^2)
+ */
+
 const performance = require('perf_hooks').performance;
 
 const quickSort = (array) => {
